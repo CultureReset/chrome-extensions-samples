@@ -1,3 +1,14 @@
+> **CultureReset fork of [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples).** Chrome Extensions Samples.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/GoogleChrome/chrome-extensions-samples).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Chrome Extensions samples
 
 Official samples for Chrome Extensions and the Chrome Apps platform. (Chrome Apps are deprecated. Learn more [on the Chromium blog](https://blog.chromium.org/2020/08/changes-to-chrome-app-support-timeline.html)).
